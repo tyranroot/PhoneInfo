@@ -158,3 +158,11 @@ Type	Information	Accuracy
 💬 WhatsApp	Account existence	     95%
 ✈️ Telegram	Account existence	     80%
 ```
+---
+## 👨‍💻 Author
+* **Name:** Maruf x ZeroTrace 
+* 🐙 GitHub: [@tyranroot](https://github.com/tyranroot/)
+* 💬 Telegram: [@marufxzerotrace](https://t.me/marufxzerotrace)
+* 📘 Facebook: [Maruf x ZeroTrace](https://www.facebook.com/share/1CDxaGN6p3/)
+
+---
