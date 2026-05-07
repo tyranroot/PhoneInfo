@@ -145,3 +145,16 @@ python3 PhoneInfo.py
 
 ---
 ---
+###  **Accuracy**
+
+```bash
+Type	Information	Accuracy
+📱 Number	Validation, formatting	100%
+🌍 Country	Code, name, region	99%
+📡 Carrier	Operator name	         95%
+📞 Line Type	Mobile/Fixed/VoIP	         90%
+📍 Location	City, state (IP-based)	85%
+⏰ Timezone	Timezone detection	90%
+💬 WhatsApp	Account existence	         95%
+✈️ Telegram	Account existence	         80%
+```
