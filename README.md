@@ -13,7 +13,7 @@
 
 ## 📌 **Overview**
 
-**PhoneInfo Pro** is a professional-grade OSINT (Open Source Intelligence) tool that extracts comprehensive information from a phone number including:
+**PhoneInfo ** is a professional-grade OSINT (Open Source Intelligence) tool that extracts comprehensive information from a phone number including:
 - 📱 **Number validation & format check**
 - 🌍 **Country, region, and timezone information**
 - 📡 **Carrier/operator details & line type**
