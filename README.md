@@ -99,3 +99,28 @@
 [✓] Scan completed at  00/00/0000
 ============================================================
 ```
+---
+---
+
+###   **Installation**
+###  **Termux / Android**
+```bash
+pkg update -y
+pkg install python git -y
+git clone https://github.com/tyranroot/PhoneInfo.git
+cd PhoneInfo
+pip install phonenumbers requests colorama
+python PhoneInfo.py
+```
+
+###  **Kali and Others distribution**
+```bash
+sudo apt update -y
+sudo apt install python python3 git -y
+git clone https://github.com/tyranroot/PhoneInfo.git
+cd PhoneInfo
+python3 -m venv venv
+source venv/bin/activate
+pip3 install phonenumbers requests colorama
+python3 PhoneInfo.py
+```
